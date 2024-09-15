@@ -1,7 +1,7 @@
-from .request import *
+from scrap import *
 
 def main():
-    get_request()
+    scrap()
 
 if __name__ == "__main__":
     main()
